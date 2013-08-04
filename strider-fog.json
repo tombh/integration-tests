@@ -1,0 +1,4 @@
+{
+  "prepare": "echo executed prepare statement!",
+  "test": "echo executed deploy statement!"
+}
