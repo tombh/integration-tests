@@ -1,4 +1,4 @@
 {
-  "prepare": "echo executed prepare statement!",
-  "test": "echo executed deploy statement!"
+  "prepare": "ls",
+  "test": "uname -a"
 }
